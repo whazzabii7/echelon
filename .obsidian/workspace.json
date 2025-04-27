@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Satelite Types.md",
+                "file": "docs/TODO.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Satelite Types"
+              "title": "TODO"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/Satelite Types.md",
+                "file": "docs/TODO.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Satelite Types"
+              "title": "Backlinks for TODO"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/Satelite Types.md",
+                "file": "docs/TODO.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Satelite Types"
+              "title": "Outgoing links from TODO"
             }
           },
           {
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/Satelite Types.md",
+                "file": "docs/TODO.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Satelite Types"
+              "title": "Outline of TODO"
             }
           }
         ]
@@ -168,9 +168,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "081f35ecc0839625",
+  "active": "78fd85a72b796172",
   "lastOpenFiles": [
     "README.md",
+    "docs/TODO.md",
     "docs/Satelite Types.md",
     "src/main.bas",
     "lib",
